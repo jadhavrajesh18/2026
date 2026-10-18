@@ -1,0 +1,16 @@
+{
+  "name": "bedrock-railway-chatbot",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Experimental Minecraft Bedrock chat bot for Railway",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "bedrock-protocol": "^3.50.0"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
